@@ -1,6 +1,6 @@
 {
   "name": "npm-matematicas",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "proyecto de matematicas sencillo para aprender a subir a npm",
   "main": "index.js",
   "scripts": {
